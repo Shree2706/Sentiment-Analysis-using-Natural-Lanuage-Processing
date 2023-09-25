@@ -1,4 +1,4 @@
-# Sentiment-Analysis-using-Natural-Lanuage-Processing
+# Sentiment Analysis using Natural Lanuage Processing
 It is a NLP based project, which is built to analyze the sentiment of the product review, weather it is positive, negative or neutral.
 
 In this project, we will go through a Natural Language Processing Python Project creating a Sentiment Analysis classifier with NLTK's VADER and Huggingface Roberta Transformers. 
